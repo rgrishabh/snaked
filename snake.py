@@ -1,3 +1,4 @@
+# Program make a snake game
 from pygame.locals import *
 import pygame
 
